@@ -1,5 +1,5 @@
 'use client';
-
+export const runtime = 'edge';
 // app/setnje/[tour_id]/page.tsx
 
 import { useRouter } from 'next/navigation';
